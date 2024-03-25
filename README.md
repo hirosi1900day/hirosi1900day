@@ -1,6 +1,5 @@
 
 # Developer in Japan👋
-### Feel free to contact me anytime!👍
 #
 [hirosi1900day's GitHub stats](https://github-readme-stats.vercel.app/api?username=hirosi1900day&show_icons=true&theme=vue-dark)
 
