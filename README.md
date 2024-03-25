@@ -1,7 +1,7 @@
 
 # Developer in Japan👋
 #
-！[hirosi1900day's GitHub stats](https://github-readme-stats.vercel.app/api?username=hirosi1900day&show_icons=true&theme=vue-dark)
+![hirosi1900day's GitHub stats](https://github-readme-stats.vercel.app/api?username=hirosi1900day&show_icons=true&theme=vue-dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hirosi1900day&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
