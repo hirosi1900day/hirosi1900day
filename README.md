@@ -3,7 +3,7 @@
 #
 <!-- ![hirosi1900day's GitHub stats](https://github-readme-stats.vercel.app/api?username=hirosi1900day&show_icons=true&theme=vue-dark) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hirosi1900day&layout=compact&theme=vue-dark)](https://github.com/hirosi1900day/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hirosi1900day&layout=compact&theme=vue-dark)](https://github.com/hirosi1900day/github-readme-stats) -->
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=hirosi1900day&theme=discord)](https://github.com/hirosi1900day/github-profile-trophy)
 
