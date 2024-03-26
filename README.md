@@ -14,6 +14,6 @@
 
 # My Skill (Programming Languages, Frameworks and Tools)
 
-<img src="https://skillicons.dev/icons?i=html,css,js,typescript,firebase,react,vue,next,sqlite,mysql,github,vscode,docker,laravel,cakephp,discord,php,gutlab,jquery,aws,vite,gcp,golang,rails,ruby,ansible,terraform,postgres,circleci,github acion,k8s" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=html,css,js,typescript,firebase,react,vue,next,sqlite,mysql,github,vscode,docker,laravel,cakephp,discord,php,gitlab,jquery,aws,vite,gcp,golang,rails,ruby,ansible,terraform,postgres,kotlin,swift,kotilin" /> <br /><br />
 
 
